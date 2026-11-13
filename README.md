@@ -31,6 +31,8 @@
 >
 > 🎧 **헤드폰이나 이어폰을 꼭 써 주세요.** 이 게임은 소리로 판단하는 게임입니다.
 
+> 🏷️ 이 빌드는 **P.U.B.G. 대회 출품용**입니다. 정식판 전체 내용이 들어 있으며, 화면에 대회용 워터마크가 표시됩니다.
+
 ---
 
 ## 🎮 게임 소개
@@ -97,11 +99,13 @@
 
 ## 📸 스크린샷
 
-<!-- images 폴더에 스크린샷을 넣고 아래 파일 이름을 맞춰 주세요 -->
 <p align="center">
-  <img src="images/screenshot1.png" width="80%" alt="스크린샷 1"><br><br>
-  <img src="images/screenshot2.png" width="80%" alt="스크린샷 2"><br><br>
-  <img src="images/screenshot3.png" width="80%" alt="스크린샷 3">
+  <img src="images/screenshot1.png" width="80%" alt="낮의 MS Station 주유소"><br>
+  <sub>낮 — 다음 밤을 준비하는 주유소</sub><br><br>
+  <img src="images/screenshot2.png" width="80%" alt="밤의 사무실과 CCTV 모니터"><br>
+  <sub>밤 — 사무실 책상과 CCTV 모니터</sub><br><br>
+  <img src="images/screenshot3.png" width="80%" alt="CCTV로 주유하러 온 손님을 지켜보는 화면"><br>
+  <sub>CCTV — 주유하러 온 손님, 정말 사람일까?</sub>
 </p>
 
 ---
@@ -110,10 +114,23 @@
 
 | 이름 | 역할 |
 |---|---|
-| 이름 | 기획 · 개발 |
-| 이름 | 역할 |
-| 이름 | 역할 |
-| 이름 | 역할 |
+| **백승헌** | 프로젝트 리드 · 개발 리드 · 사운드 & 음악 · 마케팅 |
+| **임재유** | 게임 디자인 · 개발 · 사운드 & 음악 |
+| **강수현** | 아트 & 그래픽 · 개발 · 사운드 & 음악 |
+
+---
+
+## 🎵 사용한 외부 에셋
+
+아래 효과음은 [Freesound](https://freesound.org)에서 **CC0 1.0 (퍼블릭 도메인)** 으로 공개된 녹음을 다듬어서 사용했습니다.
+
+| 제작자 | 원본 |
+|---|---|
+| morganveilleux | [man holds breath- gasp](https://freesound.org/people/morganveilleux/sounds/389996/) · [male long sigh- close](https://freesound.org/people/morganveilleux/sounds/389998/) |
+| TrollandRoll | [Sliding an object across surface/scratching](https://freesound.org/people/TrollandRoll/sounds/639827/) |
+| jlaclare | [Random Grunting](https://freesound.org/people/jlaclare/sounds/329908/) |
+| NachtmahrTV | [Footsteps on concrete](https://freesound.org/people/NachtmahrTV/sounds/553226/) |
+| FlatHill | [Body Hitting Wooden Door](https://freesound.org/people/FlatHill/sounds/211450/) |
 
 ---
 
