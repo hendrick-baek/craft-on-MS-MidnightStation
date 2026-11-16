@@ -107,8 +107,6 @@
 
 > 💡 책상 오른쪽의 **야간 근무 안내** 종이를 꼭 읽어 보세요. 근무 규칙이 적혀 있습니다.
 
----
-
 ## 📸 스크린샷 & 영상
 
 <p align="center">
@@ -118,13 +116,18 @@
   <sub>밤 — 사무실 책상과 CCTV 모니터</sub><br><br>
   <img src="images/screenshot3.png" width="80%" alt="CCTV로 주유하러 온 손님을 지켜보는 화면"><br>
   <sub>CCTV — 주유하러 온 손님, 정말 사람일까?</sub>
-
-  https://github.com/user-attachments/assets/ef9109b2-21af-4b28-b8df-268b2d72a7fe
-  <p align="center"><sub>문 뒤에 무엇이 기다리고 있을까요?</sub></p>
-  https://github.com/user-attachments/assets/fe1c6cb0-a808-441f-a199-b20bd904025b
-  <p align="center"><sub>…이 주유소에는 아직 아무도 모르는 곳이 있습니다.</sub></p>
 </p>
+
+https://github.com/user-attachments/assets/ef9109b2-21af-4b28-b8df-268b2d72a7fe
+
+<p align="center"><sub>문 뒤에 무엇이 기다리고 있을까요?</sub></p>
+
+https://github.com/user-attachments/assets/fe1c6cb0-a808-441f-a199-b20bd904025b
+
+<p align="center"><sub>…이 주유소에는 아직 아무도 모르는 곳이 있습니다.</sub></p>
+
 ---
+
 
 ## 👥 팀원 소개
 
