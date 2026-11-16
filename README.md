@@ -52,7 +52,6 @@
 하지만 잘못 판단해 사람에게 전기충격기를 쏘면 그 대가를 치르게 됩니다.
 
 
-https://github.com/user-attachments/assets/ef9109b2-21af-4b28-b8df-268b2d72a7fe
 
 
 ### 이런 재미가 있습니다
@@ -69,8 +68,6 @@ https://github.com/user-attachments/assets/ef9109b2-21af-4b28-b8df-268b2d72a7fe
   주유소 구석구석에는 만져 보고, 열어 보고, 따라가 볼 수 있는 것들이 숨어 있습니다.
   평범해 보이는 곳 너머에 무엇이 기다리고 있는지, 직접 찾아보세요.
 
-https://github.com/user-attachments/assets/fe1c6cb0-a808-441f-a199-b20bd904025b
-<p align="center"><sub>…이 주유소에는 아직 아무도 모르는 곳이 있습니다.</sub></p>
 
 ---
 
@@ -112,7 +109,7 @@ https://github.com/user-attachments/assets/fe1c6cb0-a808-441f-a199-b20bd904025b
 
 ---
 
-## 📸 스크린샷
+## 📸 스크린샷 & 영상
 
 <p align="center">
   <img src="images/screenshot1.png" width="80%" alt="낮의 MS Station 주유소"><br>
@@ -122,6 +119,10 @@ https://github.com/user-attachments/assets/fe1c6cb0-a808-441f-a199-b20bd904025b
   <img src="images/screenshot3.png" width="80%" alt="CCTV로 주유하러 온 손님을 지켜보는 화면"><br>
   <sub>CCTV — 주유하러 온 손님, 정말 사람일까?</sub>
 </p>
+https://github.com/user-attachments/assets/ef9109b2-21af-4b28-b8df-268b2d72a7fe
+<p align="center"><sub>문 뒤에 무엇이 기다리고 있을까요?</sub></p>
+https://github.com/user-attachments/assets/fe1c6cb0-a808-441f-a199-b20bd904025b
+<p align="center"><sub>…이 주유소에는 아직 아무도 모르는 곳이 있습니다.</sub></p>
 
 ---
 
