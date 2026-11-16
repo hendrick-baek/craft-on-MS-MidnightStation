@@ -65,9 +65,7 @@
   주유소 구석구석에는 만져 보고, 열어 보고, 따라가 볼 수 있는 것들이 숨어 있습니다.
   평범해 보이는 곳 너머에 무엇이 기다리고 있는지, 직접 찾아보세요.
 
-<!-- ▼ 깃허브 편집 화면에서 이 줄 바로 아래에 video/midnight_station_secret.mp4 를 끌어다 놓으세요 ▼ -->
-
-
+https://github.com/user-attachments/assets/fe1c6cb0-a808-441f-a199-b20bd904025b
 <p align="center"><sub>…이 주유소에는 아직 아무도 모르는 곳이 있습니다.</sub></p>
 
 ---
